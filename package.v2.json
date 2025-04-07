@@ -1,0 +1,14 @@
+{
+    "QbitSpeedLimit": {
+        "name": "QB定时限速",
+        "description": "QB定时限速",
+        "labels": "Qbittorrent",
+        "version": "2.0",
+        "icon": "Qbittorrent_B.png",
+        "author": "amtoaer",
+        "level": 1,
+        "history": {
+            "v2.0": "初始版本"
+        }
+    }
+}
